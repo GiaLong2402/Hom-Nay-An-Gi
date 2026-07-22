@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235859637499",
+    "project_id": "hom-nay-an-gi-99da2",
+    "storage_bucket": "hom-nay-an-gi-99da2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235859637499:android:c27b61658ce9574a0f6c5e",
+        "android_client_info": {
+          "package_name": "com.example.hom_nay_an_gi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbG235HTezbIHSHxSbSr7NK56cHlPKdg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

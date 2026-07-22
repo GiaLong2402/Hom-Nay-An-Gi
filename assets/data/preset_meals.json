@@ -1,0 +1,429 @@
+[
+  {
+    "id": "pho-bo",
+    "name": "Phở bò",
+    "category": "Đồ nước",
+    "tags": [
+      "Nóng",
+      "Món nước",
+      "Sáng",
+      "35k-50k"
+    ],
+    "ingredients": [
+      "Thịt bò",
+      "Bánh phở",
+      "Hành",
+      "Gừng",
+      "Rau thơm"
+    ]
+  },
+  {
+    "id": "bun-cha",
+    "name": "Bún chả",
+    "category": "Trưa",
+    "tags": [
+      "Nướng",
+      "Hà Nội",
+      "40k-60k"
+    ],
+    "ingredients": [
+      "Thịt heo",
+      "Bún",
+      "Rau sống",
+      "Nước mắm",
+      "Tỏi"
+    ]
+  },
+  {
+    "id": "com-tam",
+    "name": "Cơm tấm",
+    "category": "Trưa",
+    "tags": [
+      "Sài Gòn",
+      "Đồ khô",
+      "30k-50k"
+    ],
+    "ingredients": [
+      "Gạo",
+      "Sườn heo",
+      "Trứng",
+      "Dưa chua",
+      "Nước mắm"
+    ]
+  },
+  {
+    "id": "banh-mi",
+    "name": "Bánh mì thịt",
+    "category": "Sáng",
+    "tags": [
+      "Nhanh",
+      "Mang đi",
+      "15k-30k"
+    ],
+    "ingredients": [
+      "Bánh mì",
+      "Thịt heo",
+      "Pate",
+      "Rau sống",
+      "Đồ chua"
+    ]
+  },
+  {
+    "id": "bun-bo-hue",
+    "name": "Bún bò Huế",
+    "category": "Đồ nước",
+    "tags": [
+      "Cay",
+      "Huế",
+      "Nóng",
+      "40k-60k"
+    ],
+    "ingredients": [
+      "Thịt bò",
+      "Bún",
+      "Sả",
+      "Ớt",
+      "Huyết"
+    ]
+  },
+  {
+    "id": "goi-cuon",
+    "name": "Gỏi cuốn",
+    "category": "Ăn vặt",
+    "tags": [
+      "Tươi",
+      "Nhẹ bụng",
+      "25k-40k"
+    ],
+    "ingredients": [
+      "Bánh tráng",
+      "Tôm",
+      "Thịt heo",
+      "Bún",
+      "Rau sống"
+    ]
+  },
+  {
+    "id": "banh-xeo",
+    "name": "Bánh xèo",
+    "category": "Tối",
+    "tags": [
+      "Giòn",
+      "Miền Tây",
+      "40k-70k"
+    ],
+    "ingredients": [
+      "Bột gạo",
+      "Tôm",
+      "Thịt heo",
+      "Giá đỗ",
+      "Rau sống"
+    ]
+  },
+  {
+    "id": "cao-lau",
+    "name": "Cao lầu",
+    "category": "Trưa",
+    "tags": [
+      "Hội An",
+      "Đặc sản",
+      "40k-60k"
+    ],
+    "ingredients": [
+      "Mì cao lầu",
+      "Thịt heo",
+      "Rau sống",
+      "Đậu phộng",
+      "Tỏi"
+    ]
+  },
+  {
+    "id": "bun-rieu",
+    "name": "Bún riêu cua",
+    "category": "Đồ nước",
+    "tags": [
+      "Nóng",
+      "Cua đồng",
+      "30k-45k"
+    ],
+    "ingredients": [
+      "Cua",
+      "Bún",
+      "Cà chua",
+      "Đậu phụ",
+      "Rau sống"
+    ]
+  },
+  {
+    "id": "hu-tieu",
+    "name": "Hủ tiếu Nam Vang",
+    "category": "Đồ nước",
+    "tags": [
+      "Sài Gòn",
+      "Sáng",
+      "35k-50k"
+    ],
+    "ingredients": [
+      "Hủ tiếu",
+      "Tôm",
+      "Thịt heo",
+      "Trứng cút",
+      "Hành"
+    ]
+  },
+  {
+    "id": "mi-quang",
+    "name": "Mì Quảng",
+    "category": "Trưa",
+    "tags": [
+      "Đà Nẵng",
+      "Đặc sản",
+      "35k-55k"
+    ],
+    "ingredients": [
+      "Mì Quảng",
+      "Tôm",
+      "Thịt heo",
+      "Đậu phộng",
+      "Rau sống"
+    ]
+  },
+  {
+    "id": "com-ga",
+    "name": "Cơm gà Hội An",
+    "category": "Trưa",
+    "tags": [
+      "Hội An",
+      "Đồ khô",
+      "40k-60k"
+    ],
+    "ingredients": [
+      "Gà",
+      "Gạo",
+      "Gừng",
+      "Hành",
+      "Rau sống"
+    ]
+  },
+  {
+    "id": "banh-cuon",
+    "name": "Bánh cuốn",
+    "category": "Sáng",
+    "tags": [
+      "Nhẹ",
+      "Hà Nội",
+      "25k-40k"
+    ],
+    "ingredients": [
+      "Bột gạo",
+      "Thịt heo",
+      "Mộc nhĩ",
+      "Hành",
+      "Nước mắm"
+    ]
+  },
+  {
+    "id": "chao-long",
+    "name": "Cháo lòng",
+    "category": "Sáng",
+    "tags": [
+      "Nóng",
+      "Đậm đà",
+      "25k-40k"
+    ],
+    "ingredients": [
+      "Gạo",
+      "Lòng heo",
+      "Hành",
+      "Tiêu",
+      "Gừng"
+    ]
+  },
+  {
+    "id": "bun-dau",
+    "name": "Bún đậu mắm tôm",
+    "category": "Tối",
+    "tags": [
+      "Mắm tôm",
+      "Hà Nội",
+      "50k-80k"
+    ],
+    "ingredients": [
+      "Bún",
+      "Đậu phụ",
+      "Thịt heo",
+      "Rau sống",
+      "Mắm tôm"
+    ]
+  },
+  {
+    "id": "nem-nuong",
+    "name": "Nem nướng Nha Trang",
+    "category": "Tối",
+    "tags": [
+      "Nướng",
+      "Nha Trang",
+      "40k-70k"
+    ],
+    "ingredients": [
+      "Thịt heo",
+      "Bún",
+      "Bánh tráng",
+      "Rau sống",
+      "Tỏi"
+    ]
+  },
+  {
+    "id": "lau-thai",
+    "name": "Lẩu Thái",
+    "category": "Tối",
+    "tags": [
+      "Cay",
+      "Ăn nhóm",
+      "150k-250k"
+    ],
+    "ingredients": [
+      "Hải sản",
+      "Nấm",
+      "Rau",
+      "Sả",
+      "Ớt"
+    ]
+  },
+  {
+    "id": "com-chien",
+    "name": "Cơm chiên Dương Châu",
+    "category": "Đồ khô",
+    "tags": [
+      "Nhanh",
+      "No lâu",
+      "30k-45k"
+    ],
+    "ingredients": [
+      "Gạo",
+      "Trứng",
+      "Xúc xích",
+      "Đậu Hà Lan",
+      "Hành"
+    ]
+  },
+  {
+    "id": "mi-xao",
+    "name": "Mì xào bò",
+    "category": "Đồ khô",
+    "tags": [
+      "Xào",
+      "Nhanh",
+      "35k-50k"
+    ],
+    "ingredients": [
+      "Mì",
+      "Thịt bò",
+      "Rau cải",
+      "Tỏi",
+      "Nước tương"
+    ]
+  },
+  {
+    "id": "banh-trang-nuong",
+    "name": "Bánh tráng nướng",
+    "category": "Ăn vặt",
+    "tags": [
+      "Đà Lạt",
+      "Vỉa hè",
+      "15k-25k"
+    ],
+    "ingredients": [
+      "Bánh tráng",
+      "Trứng",
+      "Hành",
+      "Tương ớt",
+      "Ruốc"
+    ]
+  },
+  {
+    "id": "che-ba-mau",
+    "name": "Chè ba màu",
+    "category": "Ăn vặt",
+    "tags": [
+      "Ngọt",
+      "Giải nhiệt",
+      "15k-25k"
+    ],
+    "ingredients": [
+      "Đậu xanh",
+      "Đậu đỏ",
+      "Thạch",
+      "Nước cốt dừa",
+      "Đá"
+    ]
+  },
+  {
+    "id": "bo-ne",
+    "name": "Bò né",
+    "category": "Sáng",
+    "tags": [
+      "Trứng",
+      "Bánh mì",
+      "40k-60k"
+    ],
+    "ingredients": [
+      "Thịt bò",
+      "Trứng",
+      "Bánh mì",
+      "Hành",
+      "Bơ"
+    ]
+  },
+  {
+    "id": "oc-xao",
+    "name": "Ốc xào me",
+    "category": "Ăn vặt",
+    "tags": [
+      "Cay",
+      "Nhậu nhẹ",
+      "50k-80k"
+    ],
+    "ingredients": [
+      "Ốc",
+      "Me",
+      "Tỏi",
+      "Ớt",
+      "Rau răm"
+    ]
+  },
+  {
+    "id": "sup-cua",
+    "name": "Súp cua",
+    "category": "Ăn vặt",
+    "tags": [
+      "Nhẹ",
+      "Nóng",
+      "20k-35k"
+    ],
+    "ingredients": [
+      "Cua",
+      "Trứng",
+      "Bắp",
+      "Nấm",
+      "Hành"
+    ]
+  },
+  {
+    "id": "ga-ran",
+    "name": "Gà rán",
+    "category": "Tối",
+    "tags": [
+      "Giòn",
+      "Ăn nhanh",
+      "50k-90k"
+    ],
+    "ingredients": [
+      "Gà",
+      "Bột chiên",
+      "Trứng",
+      "Tỏi",
+      "Tiêu"
+    ]
+  }
+]
