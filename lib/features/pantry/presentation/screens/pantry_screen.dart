@@ -13,7 +13,7 @@ import '../providers/pantry_provider.dart';
 import '../widgets/ingredient_picker.dart';
 import '../widgets/match_results_pager.dart';
 
-/// Màn hình Tủ lạnh — chọn nguyên liệu, lọc món, gợi ý món mới.
+/// Màn hình Tủ lạnh còn gì — chọn nguyên liệu, lọc món, gợi ý món mới.
 class PantryScreen extends ConsumerStatefulWidget {
   const PantryScreen({super.key});
 
@@ -195,7 +195,7 @@ class _PantryScreenState extends ConsumerState<PantryScreen> {
     final scheme = Theme.of(context).colorScheme;
 
     return Scaffold(
-      appBar: const PrimaryAppBar(title: 'Tủ lạnh'),
+      appBar: const PrimaryAppBar(title: 'Tủ lạnh còn gì?'),
       body: ListView(
         padding: const EdgeInsets.fromLTRB(
           AppSpacing.lg,

@@ -16,7 +16,7 @@ import '../../../meals/presentation/providers/meal_filter_provider.dart';
 import '../../../meals/presentation/widgets/meal_filter_bar.dart';
 import '../widgets/meal_result_dialog.dart';
 
-/// Màn hình Vòng quay may mắn — chọn ngẫu nhiên món đã lọc.
+/// Màn hình Chiếc nón may mắn — chọn ngẫu nhiên món đã lọc.
 class LuckyWheelScreen extends ConsumerStatefulWidget {
   const LuckyWheelScreen({super.key});
 
@@ -107,7 +107,7 @@ class _LuckyWheelScreenState extends ConsumerState<LuckyWheelScreen> {
     final scheme = Theme.of(context).colorScheme;
 
     return Scaffold(
-      appBar: const PrimaryAppBar(title: 'Vòng quay may mắn'),
+      appBar: const PrimaryAppBar(title: 'Chiếc nón may mắn'),
       body: SafeArea(
         child: Column(
           children: [

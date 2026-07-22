@@ -10,7 +10,7 @@ import '../../../meals/presentation/providers/meal_filter_provider.dart';
 import '../../../meals/presentation/widgets/meal_filter_bar.dart';
 import '../widgets/swipe_cards_view.dart';
 
-/// Màn hình Thẻ bài — quẹt chọn món (Tinder style).
+/// Màn hình TinderFood — quẹt chọn món (Tinder style).
 class RandomCardsScreen extends ConsumerStatefulWidget {
   const RandomCardsScreen({super.key});
 
@@ -57,7 +57,7 @@ class _RandomCardsScreenState extends ConsumerState<RandomCardsScreen> {
 
     return Scaffold(
       appBar: PrimaryAppBar(
-        title: 'Thẻ bài ngẫu nhiên',
+        title: 'TinderFood',
         actions: [
           IconButton(
             tooltip: 'Xáo lại bộ bài',

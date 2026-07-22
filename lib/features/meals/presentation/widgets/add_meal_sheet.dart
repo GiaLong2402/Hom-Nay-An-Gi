@@ -200,7 +200,7 @@ class _MealFormSheetState extends ConsumerState<MealFormSheet> {
                   labelText: 'Nguyên liệu (tuỳ chọn)',
                   hintText: 'Thịt bò, Lá lốt, Hành tím',
                   helperText:
-                      'Phân tách bằng dấu phẩy — sẽ hiện trên Tủ lạnh nếu chưa có',
+                      'Phân tách bằng dấu phẩy — sẽ hiện trên Tủ lạnh còn gì nếu chưa có',
                   prefixIcon: Icon(Icons.kitchen_outlined),
                 ),
                 onFieldSubmitted: (_) => _submit(),

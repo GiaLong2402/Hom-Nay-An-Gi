@@ -37,7 +37,7 @@ class HomeShell extends ConsumerWidget {
           NavigationDestination(
             icon: Icon(Icons.casino_outlined),
             selectedIcon: Icon(Icons.casino),
-            label: 'Vòng quay',
+            label: 'Chiếc nón',
           ),
           NavigationDestination(
             icon: Icon(Icons.sports_martial_arts_outlined),
@@ -47,12 +47,12 @@ class HomeShell extends ConsumerWidget {
           NavigationDestination(
             icon: Icon(Icons.style_outlined),
             selectedIcon: Icon(Icons.style),
-            label: 'Thẻ bài',
+            label: 'TinderFood',
           ),
           NavigationDestination(
             icon: Icon(Icons.kitchen_outlined),
             selectedIcon: Icon(Icons.kitchen),
-            label: 'Tủ lạnh',
+            label: 'Tủ lạnh còn gì',
           ),
           NavigationDestination(
             icon: Icon(Icons.restaurant_menu_outlined),
